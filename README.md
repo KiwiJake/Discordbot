@@ -1,5 +1,9 @@
-##### Discord AI bot
+# Discord AI Bot
 
+A Discord bot powered by Gemini AI.
 
+## Installation
 
-<p>A discord bot that uses gemini ai </p>
+```bash
+pip install discord.py google-genai python-dotenv
+```
